@@ -8,6 +8,7 @@ Welcome to paladin's documentation!
 
 .. toctree::
    upload_stocks
+   place_offers
    :maxdepth: 2
    :caption: Contents:
 
