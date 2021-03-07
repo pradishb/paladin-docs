@@ -7,6 +7,7 @@ Welcome to paladin's documentation!
 ===================================
 
 .. toctree::
+   select_character
    upload_stocks
    place_offers
    :maxdepth: 2
