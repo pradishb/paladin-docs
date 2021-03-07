@@ -36,4 +36,6 @@ Places buy offers and sell offers. The offers are placed based on configuration 
 }
 ```
 
-Market dialog must be open before using this action.
+### Notes
+
+- Market dialog must be open before using this action.
