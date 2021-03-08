@@ -4,11 +4,11 @@ Searches items in market and reads the item count. The collected data is uploade
 
 ## Configuration
 
-### Fields
+| Field      | Data Type       | Default | Description                                        |
+| ---------- | --------------- | ------- | -------------------------------------------------- |
+| check_list | list of strings | []      | : accepts a list of items to upload to the manager |
 
-check_list: accepts a list of items to upload to the manager
-
-config.json
+**Example config.json**
 
 ```
 {
@@ -18,4 +18,6 @@ config.json
 }
 ```
 
-Market dialog must be open before using this action.
+### Notes
+
+- Market dialog must be open before using this action.

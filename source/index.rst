@@ -10,6 +10,7 @@ Welcome to paladin's documentation!
    select_character
    upload_stocks
    place_offers
+   hunt
    :maxdepth: 2
    :caption: Contents:
 
