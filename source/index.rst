@@ -7,6 +7,7 @@ Welcome to paladin's documentation!
 ===================================
 
 .. toctree::
+   base_configuration
    select_character
    upload_stocks
    place_offers
