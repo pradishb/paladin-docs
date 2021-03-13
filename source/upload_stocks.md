@@ -1,6 +1,6 @@
 # upload_stocks
 
-Searches items in market and reads the item count. The collected data is uploaded to the manager.
+Searches items in market and reads the item count. The collected data is uploaded to the manager. This action is included in upload_my_offers action.
 
 ## Configuration
 
@@ -17,7 +17,3 @@ Searches items in market and reads the item count. The collected data is uploade
   }
 }
 ```
-
-### Notes
-
-- Market dialog must be open before using this action.
