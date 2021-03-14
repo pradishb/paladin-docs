@@ -8,10 +8,11 @@ Welcome to paladin's documentation!
 
 .. toctree::
    base_configuration
+   check
+   hunt
+   place_offers
    select_character
    upload_stocks
-   place_offers
-   hunt
    :maxdepth: 2
    :caption: Contents:
 
